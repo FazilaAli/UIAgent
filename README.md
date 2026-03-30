@@ -1,4 +1,4 @@
-# 🧪 UI_Agent
+# 🧪 UI Tester
 
 AI-powered UI testing agent that compares baseline and new screenshots, analyzes differences using LLM reasoning, and enables intelligent decisions like updating baselines or reporting bugs directly to Jira.
 
@@ -6,7 +6,7 @@ AI-powered UI testing agent that compares baseline and new screenshots, analyzes
 
 ## 🚀 Overview
 
-UI_Agent is designed to automate visual regression testing with intelligence.
+UI Tester is designed to automate visual regression testing with intelligence.
 
 It compares **new UI screenshots** against **baseline screenshots**, detects changes, and uses an AI model to determine whether the change is expected or a defect.
 
@@ -85,14 +85,14 @@ Baseline Screenshot + New Screenshot
 
 ---
 
-## 🎯 Why UI_Agent
+## 🎯 Why UI Tester
 
 Traditional visual testing tools:
 
 * Flag all differences ❌
 * Require manual review ❌
 
-UI_Agent:
+UI Tester:
 
 * Understands context using AI ✅
 * Reduces false positives ✅
